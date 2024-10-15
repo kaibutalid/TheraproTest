@@ -1,0 +1,15 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+.navbar {
+    padding: 10px 20px;
+    background-color: #00a1ce;
+    }
+
+.navbar-brand {
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    }
